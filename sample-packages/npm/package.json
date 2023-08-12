@@ -1,3 +1,4 @@
 {
-  "name": "Node-Sample-Package"
+  "name": "Node-Sample-Package",
+  "version": "1.0.0"
 }
